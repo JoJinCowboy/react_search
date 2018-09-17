@@ -1,0 +1,83 @@
+body {
+  background-color: lightseagreen;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.contain{
+
+  margin: auto;
+  width: 70%;
+}
+
+.header_style{
+
+}
+
+.content_style{
+width: 100%;
+  float: left;
+}
+
+.content_section{
+  width:80%;
+  float: left;
+
+}
+
+.sidebar_section{
+  width:20%;
+  float: left;
+}
+
+.table {
+  background-color: grey;
+  width: 100%;
+  height: 300px;
+  border: solid 1px;
+  align-content: center;
+  margin-top:10px;
+
+}
+
+.heading_style{
+  border: solid 0.5px;
+  text-align: center;
+}
+
+.cell_style{
+  border: solid 0.5px;
+  text-align: center;
+}
+
+.title_style{
+  font-family: "Adobe Garamond Pro";
+  color: darkslateblue;
+  text-align: center;
+
+}
+
+.space_line{
+  border: 1px solid #aaa;
+}
+
+.menu_ul_style{
+  list-style: none;
+}
+
+.menuitem_style{
+  display:inline-block;
+  padding-right: 5px;
+}
+
+.menu_button_style{
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 26px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
+}
